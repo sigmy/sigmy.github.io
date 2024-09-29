@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sigmy.github.io/FWr/sitemap.FWr.gz
